@@ -5,4 +5,5 @@ Der Sensor BME280 ist für das Erfassen der Raumklimadaten verantwortlich. Darau
 Das Display gibt die erfassten und errechneten Klimadaten aus. Berechnet wird vor allem auch die relative Luftfeuchtigkeit an der zu untersuchenden Stelle, welche im direkten Zusammenhang mit einem potenziellen Schimmelwachstum steht.
 
 Schimmel.zip -> Datei für den Platinenhersteller
+
 Pico_Schimmel.fzz -> Fritzing Datei um das Platinenlayout anzusehen
